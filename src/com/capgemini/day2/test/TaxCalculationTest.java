@@ -10,7 +10,7 @@ class TaxCalculationTest {
 
 	@Test
 	void testcal() {
-		assertEquals(47600, TaxCalculation.cal(350000),0.2);
+		assertEquals(22000, TaxCalculation.cal(350000),0.2);
 //		fail("Not yet implemented");
 	}
 
